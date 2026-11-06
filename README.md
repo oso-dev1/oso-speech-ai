@@ -44,3 +44,10 @@ Start with a short, clear recording in each language. For example, record `مر�
 - **The recording cannot be decoded** — Check that the file plays, or save another copy as WAV or MP3.
 
 To add the demo to a GitHub repository, upload the extracted project files, including `.gitignore`.
+## Project Screenshots
+
+### Application Preview
+![OSO Speech AI](OSO%20Speech%20AI%20Local%20Transcription%20Interface.png)
+
+### Persian Transcription Test
+![Persian Transcription](Screenshot%202026-11-06%20181103.png)
