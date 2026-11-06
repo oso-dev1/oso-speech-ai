@@ -1,0 +1,4 @@
+gradio==6.31.0
+faster-whisper==1.2.1
+# faster-whisper 1.2.1 passes metadata_errors to av.open; PyAV 19 removed it.
+av==18.1.0
